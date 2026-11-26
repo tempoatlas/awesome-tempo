@@ -117,7 +117,7 @@ A categorized directory of the Tempo payments-blockchain ecosystem, curated by [
 
 ## Wallets and custody
 
-15 entries.
+16 entries.
 
 | Project / entity | Description | Reported status |
 | --- | --- | --- |
@@ -125,6 +125,7 @@ A categorized directory of the Tempo payments-blockchain ecosystem, curated by [
 | [DFNS](https://dfns.co/) | Wallet-as-a-service with policy controls. | `active` |
 | [Dynamic](https://dynamic.xyz/) | Embedded wallets and auth for apps. | `active` |
 | [Fireblocks](https://fireblocks.com/) | Institutional digital-asset custody and operations. | `active` |
+| [Gem Wallet](https://gemwallet.com/) | Open-source self-custody mobile wallet with native Tempo support. | `active` |
 | [MetaMask](https://metamask.io/) | Self-custody wallet for EVM networks. | `active` |
 | [OKX Wallet](https://okx.com/web3) | Exchange-grade self-custody wallet across many chains. | `active` |
 | [Para](https://getpara.com/) | Embedded MPC wallets across apps. | `active` |
